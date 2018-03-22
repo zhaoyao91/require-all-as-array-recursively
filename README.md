@@ -15,6 +15,16 @@ const modules = requireAll(__dirname + '/somedir')
 // `modules` is an array of all required modules
 ``` 
 
+## API
+
+### requireAll
+
+```
+(dir: String, Filter) => Any[]
+
+Filter ~ RegEx | (file: String) => Boolean
+```
+
 ## License
 
 MIT

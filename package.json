@@ -1,0 +1,16 @@
+{
+  "name": "require-all-as-array-recursively",
+  "version": "1.0.0",
+  "description": "require all as array recursively",
+  "main": "index.js",
+  "keywords": [
+    "require",
+    "array",
+    "recursively"
+  ],
+  "author": "zhaoyao91 <zhaoyao91@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "recursive-readdir-synchronous": "0.0.3"
+  }
+}

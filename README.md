@@ -1,5 +1,7 @@
 # Require All as Array Recursively
 
+[![Build Status](https://travis-ci.org/zhaoyao91/require-all-as-array-recursively.svg?branch=master)](https://travis-ci.org/zhaoyao91/require-all-as-array-recursively)
+
 ## Installation
 
 ```
